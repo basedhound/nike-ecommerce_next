@@ -60,7 +60,10 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 - **[Stripe](https://stripe.com/)** is a payment gateway that enables businesses to accept, process, and manage various payment methods, such as credit cards, debit cards, and digital wallets, in a secure and efficient manner. It simplifies the payment process for developers and businesses alike.
 
+- **[TailwindCSS](https://tailwindcss.com/)** is a utility-first CSS framework that allows developers to build custom, responsive designs quickly without leaving their HTML. It provides pre-defined classes for layout, typography, colors, and more.
+
 - **[TypeScript](https://www.typescriptlang.org/)** is a superset of JavaScript that adds static typing, providing better tooling, code quality, and error detection for developers. It is ideal for building large-scale applications and enhances the development experience.
+
 
 - **[Zustand](https://zustand-demo.pmnd.rs)** is a minimal, hook-based state management library for React. It lets you manage global state with zero boilerplate, no context providers, and excellent performance through selective state subscriptions.
 
