@@ -37,7 +37,7 @@ If you prefer visual learning, this is the perfect resource for you. Follow our 
 
 ## <a name="introduction">✨ Introduction</a>
 
-AI-powered Nike-style eCommerce built with Devin AI, Next.js, Drizzle ORM, and Better Auth! Devin generates your product pages, cart, and checkout flows—powered by Stripe payments and a PostgreSQL (Neon) backend. Featuring a clean, modular UI and tools tailored for devs who want to ship fast.
+Nike-style eCommerce built with Devin AI, Next.js, Drizzle ORM, and Better Auth! Devin generates your product pages, cart, and checkout flows—powered by Stripe payments and a PostgreSQL (Neon) backend. Featuring a clean, modular UI and tools tailored for devs who want to ship fast.
 
 If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
 
