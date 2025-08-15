@@ -29,7 +29,7 @@
 
 ## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
+This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="" target="_blank"><b>JavaScript Mastery</b></a>.
 
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
@@ -115,7 +115,7 @@ Create a new file named `.env` in the root of your project and add the following
 
 ```
 
-Replace the placeholder values with your actual ImageKit, NeonDB, Upstash, and Resend credentials. You can obtain these credentials by signing up on: [**Example**](https://jsm.dev/example).
+Replace the placeholder values with your real credentials. You can get these by signing up at: [**Example**](https://jsm.dev/example).
 
 
 **Running the Project**
@@ -130,7 +130,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 Assets and snippets used in the project can be found in the **[video kit](https://jsm.dev/devin-kit)**.
 
-<a href="https://jsm.dev/devin-kit" target="_blank">
+<a href="https://jsm.dev/nikecom-kit" target="_blank">
   <img src="public/readme/videokit.webp" alt="Video Kit Banner">
 </a>
 
@@ -141,6 +141,6 @@ Assets and snippets used in the project can be found in the **[video kit](https:
 Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
 detailed explanations, cool features, and exercises to boost your skills. Give it a go!
 
-<a href="https://jsm.dev/devin-jsmpro" target="_blank">
+<a href="https://jsm.dev/nikecom-jsmpro" target="_blank">
   <img src="public/readme/jsmpro.webp" alt="Project Banner">
 </a>
